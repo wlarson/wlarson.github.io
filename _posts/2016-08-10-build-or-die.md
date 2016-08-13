@@ -11,7 +11,7 @@ It always bothered me that software development teams were rewarded more for lau
 
 I thought I was doing a good job, but recent annual reviews did not back it up.  For the first time my reviews indicated a backwards slide, despite delivering several high profile projects that eluded my predecessors.  Looking back, my big projects were focused on extending or deprecating legacy systems.  My team built a few new services, but there were six more teams involved in replacing our legacy systems.  Most of those teams were 100% focused on building, while my team had an 80/20 split of old vs new.
 
-Nine months before quitting, an organizational change moved my team to an operations org.  My responsibilities did not change, just the management chain above me.  At the time I felt taken for granted.  I can see now they were trying to put me in a better position to succeed, where my values were in sync with my organization.
+Nine months before quitting, an organizational change moved my team to an operations org.  My responsibilities did not change, just the management chain above me.  At the time I felt taken for granted.  I see now they may have tried to put me in a better position to succeed, where my values were in sync with my organization.
 
 One of my big lessons learned is that software development leveling guidelines, used for annual reviews and promotions, strongly favor building new systems over maintaining existing ones.  So while I may not like the fact that new development is valued more than sustaining development,  it is a conscious and transparent decision by the company.  To get promoted beyond a level two developer, SDE II in Amazon speak, you have to successfully design, build, and launch a service with significant business benefit.
 
