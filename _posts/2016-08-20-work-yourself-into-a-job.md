@@ -15,4 +15,4 @@ Over the first fifteen years of my career, primarily as a software engineer, thi
 
 One of the big benefits of doing this is you get to define your role.  There are lots of problems out there.  Which do you want to work on?  Meeting with potential clients, listening to their problems, and committing to solve them allows you the choice of job.
 
-As manager your value is building teams and finding problems for them to solve.  Failure to solve problems reflects poorly on your ability to manage, not your ability to solve problems.
+As manager your value is building teams and finding problems for them to solve.  Failure to solve problems reflects poorly on your ability to build and grow your team, not your ability to solve problems.
