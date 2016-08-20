@@ -13,7 +13,7 @@ I have been thinking about my last position at Amazon for a while now.  I had a 
 
 It always bothered me that software development teams were rewarded more for launching new services than improving existing ones.   I should clarify that 'new service' at Amazon includes re-writing existing services.  I have written plenty of code from scratch, but the majority of my industry experience is maintaining and extending existing software.  In my experience re-writing software is wasteful, for a lot of reasons well articulated by Joel Spolsky in  [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html).
 
-I thought I was doing a good job, but recent annual reviews indicated otherwise.  Looking back, my big projects were focused on extending or deprecating legacy systems.  My team built a few new services, but there were several other teams involved in replacing our legacy systems.  Those teams were 100% focused on new systems, while my team had an 80/20 split of old vs new.
+I thought I was doing a good job, but recent annual reviews indicated otherwise.  Looking back, my big projects were focused on extending or deprecating legacy systems.  My team built a few new services, but there were several other teams involved in replacing our legacy systems.  Those teams were 100% focused on new services, while my team had an 80/20 split of old vs new.
 
 One of my big lessons learned is that the software development discipline strongly favors building new systems over extending existing ones.  As Amazon likes to say:  'we let builders build.'  I may not like the fact that sustaining development is undervalued, but it is a conscious and transparent decision by the company.
 
