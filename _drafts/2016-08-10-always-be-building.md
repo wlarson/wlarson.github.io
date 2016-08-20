@@ -15,7 +15,7 @@ It always bothered me that software development teams were rewarded more for lau
 
 I thought I was doing a good job, but recent annual reviews indicated otherwise.  Looking back, my big projects were focused on extending or deprecating legacy systems.  My team built a few new services, but there were several other teams involved in replacing our legacy systems.  Those teams were 100% focused on new services, while my team had an 80/20 split of old vs new.
 
-One of my big lessons learned is that the software development discipline strongly favors building new systems over extending existing ones.  As Amazon likes to say:  'we let builders build.'  I may not like the fact that sustaining development is undervalued, but it is a conscious and transparent decision by the company.
+One of my big lessons learned is that the software development discipline has a strong bias towards building new over extending old.  As Amazon likes to say:  'we let builders build.'  I may not like the fact that sustaining development is undervalued, but it is a conscious and transparent decision by the company.
 
 Looking back, I am more fixer than builder.  I have a fifty year old car and hundred year old house.  The only things I buy new are food and clothes.  I recycle and compost, rarely throwing anything in the trash.  Add that my special sauce is relating to clients and solving their problems, not churning out code.  Long story short, I am not a builder.  I am a fixer.  And software *development* was not a good fit for me.
 
