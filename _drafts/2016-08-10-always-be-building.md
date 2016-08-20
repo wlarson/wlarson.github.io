@@ -5,7 +5,9 @@ date: 2016-08-10
 categories: work software
 ---
 
-So you want to work in software development?  I have one piece of advise for you:  always be building.
+So you want to work in software development?  I have one piece of advise for you:
+
+**Always Be Building**
 
 I have been thinking about my last position at Amazon for a while now.  I had a promising career there for eight years, steadily moving up the ranks while receiving stellar feedback.  I worked in several operations groups (supply chain, customer service, catalog, finance) and was good at improving efficiency.  But I struggled after moving into a software development manager role my last two years.
 
