@@ -23,6 +23,6 @@ What about you?  Do you want to be a software developer?  Learn from my mistakes
 
 **Always Be Building**
 
-There will be plenty of bug fixing and scaling projects along the way, but always be thinking of things to build.  Write down your ideas and share them with colleagues.  Not sure how to get started?  Find a mentor and get unblocked.  Keep doing this and you will get your chance.
+There will be plenty of bug fixing and scaling projects along the way, but always be thinking of things to build.  Write down your ideas and share them with colleagues.  Not sure how to get started?  Find a mentor and get unblocked.  Keep doing this and you make your opportunity.
 
 Keep thinking.  Keep sharing.  Keep building.
