@@ -19,6 +19,10 @@ One of my big lessons learned is that the software development discipline strong
 
 Looking back, I am more fixer than builder.  I have a fifty year old car and hundred year old house.  The only things I buy new are food and clothes.  I recycle and compost, rarely throwing anything in the trash.  Add that my special sauce is relating to clients and solving their problems, not churning out code.  Long story short, I am not a builder.  I am a fixer.  And software *development* was not a good fit for me.
 
-What about you?  Do you want to be a software developer?  Always be building.  There will be plenty of bug fixing and scaling projects along the way, but always be thinking of things to build.  Write down your ideas and share them with colleagues.  Not sure how to get started?  Find a mentor and get unblocked.  Keep doing this and you will get your chance.
+What about you?  Do you want to be a software developer?  Learn from my mistakes and:
+
+**Always be building**
+
+There will be plenty of bug fixing and scaling projects along the way, but always be thinking of things to build.  Write down your ideas and share them with colleagues.  Not sure how to get started?  Find a mentor and get unblocked.  Keep doing this and you will get your chance.
 
 Keep thinking.  Keep sharing.  Keep building.
