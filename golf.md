@@ -11,8 +11,8 @@ permalink: /golf/
 Resources:
 ----------
 
-* **Coach**:  Corey Waggoner, [Seattle Golf Instruction][seattle-golf-instruction]
-* **Club fitting**:  Jay Turner,  [RedBird Sports][redbird-sports]
+* **Coach**:  Corey Waggoner @ [Seattle Golf Instruction][seattle-golf-instruction]
+* **Club fitting**:  Jay Turner @ [RedBird Sports][redbird-sports]
 * **Online Resources**:  [GG Swing Tips][ggswingtips-instagram],  [Adam Young Golf][adam-young-golf]
 * **Podcasts**:  [Golf Science Lab][golf-science-lab-podcast], [18 Strong][18strong-podcast]
 
