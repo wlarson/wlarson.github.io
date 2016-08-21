@@ -31,3 +31,12 @@ Gear:
 
 [garmin-approach-s4]: https://explore.garmin.com/en-US/golf/ "Garmin Approach S4"
 [arccos]:  http://www.arccosgolf.com/ "Arccos"
+
+Handicap:
+---------
+
+
+Club:
+-----
+
+2016 Interbay (Seattle): TBD in Points Race, TBD in tournament, 2nd in match play B flight
