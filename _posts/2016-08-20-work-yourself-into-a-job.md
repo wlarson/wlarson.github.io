@@ -2,7 +2,8 @@
 layout: post
 title: Work Yourself Into A Job
 date: 2016-08-10
-categories:  work management
+categories:  work
+tags:  management
 ---
 
 Early in my career I received a great piece of advice:  work yourself out of a job.  If you can successfully eliminate the need for your current role, there are many other roles in need of the same treatment.  
