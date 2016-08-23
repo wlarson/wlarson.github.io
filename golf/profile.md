@@ -6,8 +6,6 @@ permalink: /golf/
 
 ![desert canyon](https://wlarson.files.wordpress.com/2016/07/img_0394.jpg)
 
-*Golf is social.*  You can do it with friends or business partners and have meaningful conversations between shots.  *Golf is competitive.*  You play against yourself and the course, yes, but you can also play matches or tournaments.  *Golf is healthy.*  It's basically a five mile hike with a 35 lb backpack.  *Golf is for all ages.*  Golf is the only sport I know that you can play at a high level for most of your life.  *Golf is really hard.*  Hitting that little ball straight is surprisingly difficult.  And it feels so good when you hit it pure.
-
 Resources:
 ----------
 
@@ -31,12 +29,3 @@ Gear:
 
 [garmin-approach-s4]: https://explore.garmin.com/en-US/golf/ "Garmin Approach S4"
 [arccos]:  http://www.arccosgolf.com/ "Arccos"
-
-Handicap:
----------
-21 (2016) <- 28 (2015)
-
-Club:
------
-
-2016 Interbay (Seattle): TBD in Points Race, TBD in tournament, 2nd in match play B flight

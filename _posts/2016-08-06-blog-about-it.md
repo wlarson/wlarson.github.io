@@ -3,6 +3,7 @@ layout: post
 title: Blog About It
 date:   2016-08-06
 categories: 
+excerpt_separator: <!-- excerpt -->
 ---
 
 I am starting a website to do a few things:
@@ -10,6 +11,7 @@ I am starting a website to do a few things:
 * Work on my writing skills.
 * Work on my coding skills.
 * Stay current on website technologies.
+<!-- excerpt -->
 * Have a professional website for my career.
 * Post of golf picture or two.  
 * Maybe one day my career and golf will somehow be related.  Hey... a guy can dream.

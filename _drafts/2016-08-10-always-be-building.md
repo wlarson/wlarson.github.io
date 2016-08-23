@@ -3,13 +3,14 @@ layout: post
 title: Always Be Building
 date: 2016-08-10
 categories: work software
+excerpt_separator: <!-- excerpt -->
 ---
 
 So you want to work in software development?  I have one piece of advise for you:
 
 **Always Be Building**
 
-I have been thinking about my last position at Amazon for a while now.  I had a promising career there for eight years, steadily moving up the ranks while receiving stellar feedback.  I worked in several operations groups (supply chain, customer service, catalog, finance) and was good at improving efficiency.  But I struggled after moving into a software development manager role my last two years.
+I have been thinking about my last position at Amazon for a while now.  <!-- excerpt -->  I had a promising career there for eight years, steadily moving up the ranks while receiving stellar feedback.  I worked in several operations groups (supply chain, customer service, catalog, finance) and was good at improving efficiency.  But I struggled after moving into a software development manager role my last two years.
 
 It always bothered me that software development teams were rewarded more for launching new services than improving existing ones.   I should clarify that 'new service' at Amazon includes re-writing existing services.  I have written plenty of code from scratch, but the majority of my industry experience is maintaining and extending existing software.  In my experience re-writing entire systems is wasteful, for a lot of reasons well articulated by Joel Spolsky in  [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html).
 
