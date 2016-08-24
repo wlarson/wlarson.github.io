@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Golf
-permalink: /golf/
+title: what
+permalink: /what/
 ---
 
 ![desert canyon](https://wlarson.files.wordpress.com/2016/07/img_0394.jpg)

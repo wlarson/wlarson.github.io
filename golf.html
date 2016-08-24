@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div class="home">
-<div markdown='1'>
-![desert canyon](https://wlarson.files.wordpress.com/2016/07/img_0394.jpg)
-</div>
+
+<img src=https://wlarson.files.wordpress.com/2016/07/img_0394.jpg>
+
   <h1 class="page-heading">Golf Posts</h1>
 
   <ul class="post-list">
@@ -16,6 +16,11 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+
+      //IMAGE
+      <img src="{{ site.baseurl }}/imagens/{{ post.image }}">
+      //IMAGE
+	  
 		{{ post.excerpt }}
       </li>
     {% endfor %}

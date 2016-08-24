@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Why You Should Golf
-date: 2016-07-11
+date: 2016-08-13
 categories:  golf
 tags:  
 published: true
+image:  DesertCanyon.jpg
 ---
 
 I grew up playing team sports.  Basketball mostly, but also baseball and soccer.  In the last few years, however, I have started playing golf.  I have learned that golf is a great game for developing many important skills in life:
