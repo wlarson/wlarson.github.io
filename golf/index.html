@@ -1,10 +1,10 @@
 ---
 layout: default
+title:  Golf
+navigation_weight: 2
 ---
 
 <div class="home">
-
-<img src=https://wlarson.files.wordpress.com/2016/07/img_0394.jpg>
 
   <h1 class="page-heading">Golf Posts</h1>
 
@@ -17,9 +17,9 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
 
-      //IMAGE
-      <img src="{{ site.baseurl }}/imagens/{{ post.image }}">
-      //IMAGE
+        {% if post.image %}
+          <img src="{{ site.baseurl }}/images/{{ post.image }}">
+        {% endif %}
 	  
 		{{ post.excerpt }}
       </li>
