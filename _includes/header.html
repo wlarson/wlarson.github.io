@@ -18,8 +18,7 @@
         {% for page in nav_pages %}
           {% if p.url == page.url %}class="active"{% endif %} }
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+		{% endfor %}
       </div>
     </nav>
 
