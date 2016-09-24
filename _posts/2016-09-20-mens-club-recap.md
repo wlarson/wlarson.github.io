@@ -18,6 +18,6 @@ After golfing with friends I evaluate performance in terms of good or bad... and
 
 During our end of season Seattle Cup, representing Interbay vs the other municipal clubs, I lost due to chipping (we were okay, they were great), putting (two costly three putts where I left a long lag putt 6-8 feet short), and missing fairways (1/13).  I managed to finish all square on that last round and earn half a point, but hitting just one fairway with driver... pathetic!  Each time I would research the problem, come up with a practice plan, and go grind.
 
-In the end I finished tied for 6th (of 80+) in the season long points race, finished 2nd in match play (B bracket), and dropped my handicap from 25.3 (March) to 20.3 (September).  Having tracked stats with Arccos some key metrics were:  52.1% fairways, 30.3% GIR (71.2% short), 2.7% sand saves, 2.34 putts per GIR, 23.5% three putts.
+Some closing numbers for the season.  I finished tied for 6th (of 80+) in the season long Interbay points race, finished 2nd in match play (B bracket), and dropped my handicap from 25.3 (March) to 20.3 (September).  Having tracked stats with Arccos, some key metrics were:  52.1% fairways, 30.3% GIR (71.2% short), 2.7% sand saves, 2.34 putts per GIR, 23.5% three putts.
 
 Looking at those numbers, the #1 problem I want to work on over the offseason is leaving putts short.  It's clear that I'm subconsciously aiming for the front of the hole, trying to just barely roll it in.  To give it a chance, and set myself up for a tap-in second shot, I need my misses to go past the hole.
