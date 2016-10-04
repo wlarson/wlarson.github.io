@@ -17,7 +17,7 @@ By working on these two parts of my swing, I expect to increase distance and con
 
 <!-- excerpt -->
 
-The first, swooshing, increases clubhead speed by letting gravity take over (rather than trying to steer, or cast, the club through the impact zone).  Here's a video that describes swooshing and why it's important in the golf swing.
+The first, swooshing, increases clubhead speed by letting gravity take over (rather than trying to steer the club through the impact zone).  Here's a video that describes swooshing and why it's important in the golf swing.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TvWGJnoxbNE" frameborder="0" allowfullscreen></iframe>
 
