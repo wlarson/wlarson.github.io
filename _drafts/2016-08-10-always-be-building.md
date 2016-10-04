@@ -2,7 +2,7 @@
 layout: post
 title: Always Be Building
 date: 2016-08-10
-categories: work software
+categories: work
 excerpt_separator: <!-- excerpt -->
 ---
 
