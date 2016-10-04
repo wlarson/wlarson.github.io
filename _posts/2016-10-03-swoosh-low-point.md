@@ -3,7 +3,8 @@ layout: post
 title: Swoosh + Low Point
 categories:  golf
 tags:  grind
-image:  
+image:  willWineValley.jpg
+excerpt_separator: <!-- excerpt -->
 ---
 
 I'm currently grinding on two parts of my golf swing, both related to the release:  
@@ -11,7 +12,10 @@ I'm currently grinding on two parts of my golf swing, both related to the releas
 1. swooshing the clubhead through the zone
 2. shifting my low point forward
 
-By working on these two areas of my golf swing, I expect to increase distance and consistency.
+<br>
+By working on these two parts of my swing, I expect to increase distance and consistency.
+
+<!-- excerpt -->
 
 The first, swooshing, increases clubhead speed by letting gravity take over (rather than trying to steer, or cast, the club through the impact zone).  Here's a video that describes swooshing and why it's important in the golf swing.
 
