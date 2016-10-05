@@ -12,7 +12,6 @@ I'm currently grinding on two parts of my golf swing, both related to the releas
 1. swooshing the clubhead through the zone
 2. shifting my low point forward
 
-<br>
 By working on these two parts of my swing, I expect to increase distance and consistency.
 
 <!-- excerpt -->
