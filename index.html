@@ -19,6 +19,7 @@ navigation_weight: 1
 
         {% if post.image %}
           <img src="{{ site.baseurl }}/images/{{ post.image }}">
+		  <br><br><!-- buffer between picture & except -->
 		{% endif %}
 
 		{{ post.excerpt }}
