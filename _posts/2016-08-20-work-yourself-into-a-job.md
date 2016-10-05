@@ -14,6 +14,8 @@ Over the first fifteen years of my career, primarily as a software engineer, thi
 
 *Find problem, assign problem, repeat.*
 
-One of the big benefits of doing this is you get to define your role.  There are lots of problems out there.  Which do you want to work on?  Meeting with potential clients, listening to their problems, and committing to solve them provides you the choice of work.
+One of the big benefits of doing this is you get to define your role.  There are lots of problems out there.  Which do you want to work on?  Meeting with potential clients, listening to their problems, and committing to solve them provides you the choice of work.  The manager's value is building teams and finding problems for them to solve, rather than sovling the problems themself.
 
-As manager your value is building teams and finding problems for them to solve.  Failure to solve problems reflects poorly on your ability to build and grow your team, not your ability to solve problems.
+Moving beyond the team manager role, you want to go beyond specific problems to more general problem areas.  Determine a high level direction and empower the team to creatively move the group forward.  Defining a standard set of success criteria, or Key Performance Indicators (KPIs), will allow everyone to make good decisions on their own.
+
+*Define direction, measure, assess.*
